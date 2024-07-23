@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Bruce! <br/><a href="https://github.com/webberbaum">Programmer</a>, <a href="https://www.linkedin.com/in/brucebaum/">Cybersecurity Professional
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+ 
+<h2>📃 Certifications</h2> 
+- [Junior Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O0AFN97TQF.png)
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/brucebaum
 
 <!--
-**WebberBaum/WebberBaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
